@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[asq:home|Door43 (asq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-asq|d43-asq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-asq/archive/master.zip|d43-asq.zip]]
+
+**Recent Changes**
+{{changes>ns = asq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/asq|Ethnologue data]]
+
